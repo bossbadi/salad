@@ -1,2 +1,2 @@
 from utils import Mining
-Mining.Salad_Mining()
+Mining.Salad_Mining('4')
